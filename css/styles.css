@@ -309,10 +309,9 @@ ul {
     color: #ffffff;
     background-color: #131313;
 }
-   
 .footer-columns {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
 } 
 .footer-columns .left-column {
     display: flex;
@@ -332,7 +331,6 @@ ul {
     margin-top: auto;
     color: #555555;
 }
-
 .footer-columns .right-column {
     padding-top: 25px;
     display: flex;
